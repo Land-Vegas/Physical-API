@@ -1,2 +1,2 @@
-# Plysical-API
+# Physical API
 Physical API documentation
